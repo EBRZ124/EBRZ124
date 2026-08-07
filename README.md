@@ -1,7 +1,12 @@
 # Hi, I'm Ēvalds!
-
-- A year 2 student at the University Of Latvia studying computer science
-- My goal is to become a full-time software engineer
-- My best project: [RayRhythm](https://github.com/EBRZ124/RayRhythm) a rhythm game (4k VSRG) made with pygame
+- A full-time Java Backend intern
+- A year 2 student at the University of Latvia studying computer science
 - Favorite programming language: C++
-- Currently learning: Java
+
+---
+
+### Currently Learning:
+- Java + Spring Boot
+- React
+- TypeScript
+- Game development with Godot
